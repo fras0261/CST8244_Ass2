@@ -1,0 +1,11 @@
+Star Background:
+http://s727.photobucket.com/user/Rob_Kau/media/C2012F6SC18Jan201312-42UT1500px.jpg.html
+
+Pixel Font:
+http://www.dafont.com/alterebro-pixel-font.font
+
+Screen Wrapping Tutorial:
+http://gamedevelopment.tutsplus.com/articles/create-an-asteroids-like-screen-wrapping-effect-with-unity--gamedev-15055
+
+8-Bit Sounds:
+http://u3d.as/360
